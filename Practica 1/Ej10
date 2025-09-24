@@ -1,0 +1,4 @@
+¿Cuando es conveniente usar utilizar un callback, y cuando es necesario untilizar una promesa?
+
+El callback es util en un codigo simple o cuando solo se necesita ejecutar una accion despues de otra,
+en cambio una promesa es util cuando hay varias operaciones asincronas que depende una de la otra, evita el callback hell.
